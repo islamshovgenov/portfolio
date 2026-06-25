@@ -4,7 +4,7 @@
 специалист по биоэквивалентности, фармакокинетике и биостатистике, GCP-аудитор,
 разработчик R/Python-инструментов для клинических исследований.
 
-**Live:** https://islamshovgenov.github.io/portfolio/ *(доступно после включения GitHub Pages)*
+**Live:** https://syamochka.ru *(после настройки DNS и включения GitHub Pages)*
 
 ## Стек
 
